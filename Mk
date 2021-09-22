@@ -2,7 +2,7 @@
 ---Made by Guizzy.#0372 
 ---Open Source ! Btw you cant obfuscate it will lag your game LOL LLLLL
 -- // Dependencies-- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefanuk12/ROBLOX/master/Universal/Aiming/Module.lua"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/soruce-slient-aim/main/Source"))()
 Aiming.TeamCheck(false)
 
 -- // Services
