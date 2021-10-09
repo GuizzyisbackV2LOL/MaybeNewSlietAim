@@ -1,7 +1,7 @@
 ---Credits to my freind helping me make this !
 ---Made by Guizzy.#0372 
 ---Open Source ! Btw you cant obfuscate it will lag your game LOL LLLLL
--- // Dependencies-- // Dependencies
+-- // Guizzy!-- // Guizzy!
 local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/soruce-slient-aim/main/Source"))()
 Aiming.TeamCheck(false)
 
