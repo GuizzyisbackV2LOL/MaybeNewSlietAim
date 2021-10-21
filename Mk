@@ -1,4 +1,4 @@
----Credits Dependencies for half of the script and Guizzy the other half plus the obfuscate
+---Credits stefanuk for half of the script and Guizzy the other half plus the obfuscate
 ---Open Source ! Btw you cant obfuscate it will lag your game.
 -- // Guizzy!-- // Guizzy!
 local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/soruce-slient-aim/main/Source"))()
